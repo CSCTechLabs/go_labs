@@ -13,9 +13,6 @@ var (
 
 func main() {
 
-	var a uint = 10
-	myInt8 = 1000
-
 	// var flag bool = true
 	// var myFloat float32 = 10.5
 
